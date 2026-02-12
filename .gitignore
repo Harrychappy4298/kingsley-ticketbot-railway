@@ -1,0 +1,2 @@
+"node_modules" | Out-File -Encoding utf8 .gitignore
+".env" | Out-File -Encoding utf8 -Append .gitignore
